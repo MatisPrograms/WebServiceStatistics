@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpServer", "HttpServer\HttpServer.csproj", "{11B11AD0-7827-4552-BF92-8AAED33E15A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "www", "www", "{CD931DD8-8720-4FB5-BD14-2CF0221087FA}"
+	ProjectSection(SolutionItems) = preProject
+		home.css = home.css
+		home.html = home.html
+		home.js = home.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{C7F63160-3620-4C03-B3D8-744A1F59B2C6}"
+	ProjectSection(SolutionItems) = preProject
+		websites.json = websites.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerStats", "ServerStats\ServerStats.csproj", "{9D3643A4-12CB-4838-B3D8-21FD4E53BAB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeStats", "AgeStats\AgeStats.csproj", "{8F02229F-AC79-4DCD-B221-A188CDED4F63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookieStats", "CookieStats\CookieStats.csproj", "{9BB2A874-A23B-4715-8E87-A068C296B711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11B11AD0-7827-4552-BF92-8AAED33E15A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B11AD0-7827-4552-BF92-8AAED33E15A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B11AD0-7827-4552-BF92-8AAED33E15A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B11AD0-7827-4552-BF92-8AAED33E15A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D3643A4-12CB-4838-B3D8-21FD4E53BAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D3643A4-12CB-4838-B3D8-21FD4E53BAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D3643A4-12CB-4838-B3D8-21FD4E53BAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D3643A4-12CB-4838-B3D8-21FD4E53BAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F02229F-AC79-4DCD-B221-A188CDED4F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F02229F-AC79-4DCD-B221-A188CDED4F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F02229F-AC79-4DCD-B221-A188CDED4F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F02229F-AC79-4DCD-B221-A188CDED4F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB2A874-A23B-4715-8E87-A068C296B711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB2A874-A23B-4715-8E87-A068C296B711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB2A874-A23B-4715-8E87-A068C296B711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB2A874-A23B-4715-8E87-A068C296B711}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CDDA5F1-F1DE-44A3-AFAC-F935C9B287ED}
+	EndGlobalSection
+EndGlobal

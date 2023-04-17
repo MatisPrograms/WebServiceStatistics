@@ -1,0 +1,16 @@
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\bin\Debug\ServerStats.exe.config
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\bin\Debug\ServerStats.exe
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\bin\Debug\ServerStats.pdb
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\obj\Debug\ServerStats.csproj.AssemblyReference.cache
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\obj\Debug\ServerStats.csproj.SuggestedBindingRedirects.cache
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\obj\Debug\ServerStats.csproj.CoreCompileInputs.cache
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\obj\Debug\ServerStats.exe
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\obj\Debug\ServerStats.pdb
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\bin\Debug\Newtonsoft.Json.dll
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\bin\Debug\Newtonsoft.Json.xml
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\obj\Debug\ServerStats.csproj.CopyComplete
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\bin\Debug\MoreLinq.dll
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\bin\Debug\System.ValueTuple.dll
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\bin\Debug\MoreLinq.pdb
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\bin\Debug\MoreLinq.xml
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\bin\Debug\System.ValueTuple.xml

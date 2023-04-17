@@ -1,0 +1,16 @@
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\CookieStats\obj\Debug\CookieStats.csproj.AssemblyReference.cache
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\CookieStats\obj\Debug\CookieStats.csproj.SuggestedBindingRedirects.cache
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\CookieStats\obj\Debug\CookieStats.csproj.CoreCompileInputs.cache
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\CookieStats\bin\Debug\CookieStats.exe.config
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\CookieStats\bin\Debug\CookieStats.exe
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\CookieStats\bin\Debug\CookieStats.pdb
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\CookieStats\bin\Debug\MoreLinq.dll
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\CookieStats\bin\Debug\Newtonsoft.Json.dll
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\CookieStats\bin\Debug\System.ValueTuple.dll
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\CookieStats\bin\Debug\MoreLinq.pdb
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\CookieStats\bin\Debug\MoreLinq.xml
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\CookieStats\bin\Debug\Newtonsoft.Json.xml
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\CookieStats\bin\Debug\System.ValueTuple.xml
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\CookieStats\obj\Debug\CookieStats.csproj.CopyComplete
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\CookieStats\obj\Debug\CookieStats.exe
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\CookieStats\obj\Debug\CookieStats.pdb

@@ -1,0 +1,266 @@
+[
+  {
+    "Url": "https://chat.openai.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Casino.fr",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Google.com",
+    "CountAge": 18,
+    "AverageAge": 13713603.486602349,
+    "DeviationAge": 28974583.898833733
+  },
+  {
+    "Url": "https://Youtube.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Facebook.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Baidu.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Wikipedia.org",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Tencent.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Amazon.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://QQ.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Taobao.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Tmall.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Twitter.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Instagram.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Sina.com.cn",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Sohu.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Reddit.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Netflix.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://JD.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Naver.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://VK.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Pornhub.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Live.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Zoom.us",
+    "CountAge": 80,
+    "AverageAge": 18958653.819592949,
+    "DeviationAge": 11721173.527938526
+  },
+  {
+    "Url": "https://Bing.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Office.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Aliexpress.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Apple.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Yahoo.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Weibo.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Microsoft.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Blogspot.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Yandex.ru",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Stackoverflow.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Amazon.in",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Google.com.br",
+    "CountAge": 18,
+    "AverageAge": 13713655.665692138,
+    "DeviationAge": 28974584.022195064
+  },
+  {
+    "Url": "https://Github.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Adobe.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Myshopify.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Whatsapp.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Google.it",
+    "CountAge": 18,
+    "AverageAge": 13713661.767976709,
+    "DeviationAge": 28974584.03777653
+  },
+  {
+    "Url": "https://Okezone.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Ebay.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://Twitch.tv",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  }
+]

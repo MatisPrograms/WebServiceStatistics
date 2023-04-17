@@ -1,0 +1,113 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTTP Header Statistics</title>
+    <link href="https://www.google.com/s2/favicons?sz=64&domain=univ-cotedazur.fr" rel="icon" type="image/x-icon"/>
+    <link href="home.css" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script defer src="home.js"></script>
+</head>
+<body style="overflow: hidden">
+<div class="bg-gray-100 dark:bg-gray-900 dark:text-white text-gray-600 h-screen flex overflow-hidden text-sm">
+    <div class="bg-white dark:bg-gray-900 dark:border-gray-800 w-20 flex-shrink-0 border-r border-gray-200 flex-col hidden sm:flex">
+        <div class="h-16 text-blue-500 flex items-center justify-center">
+            <img alt="LMS Logo" class="w-9" src="https://www.google.com/s2/favicons?sz=64&domain=univ-cotedazur.fr">
+        </div>
+        <div class="flex mx-auto flex-grow mt-4 flex-col text-gray-400 space-y-4">
+            <button class="h-10 w-12 rounded-md flex items-center justify-center dark:bg-gray-700 dark:text-white bg-blue-100 text-blue-500"
+                    id="MainMenuButton">
+                <svg class="h-5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-width="2" viewBox="0 0 24 24">
+                    <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                    <polyline points="9 22 9 12 15 12 15 22"></polyline>
+                </svg>
+            </button>
+            <button class="h-10 w-12 rounded-md flex items-center justify-center dark:text-gray-500"
+                    id="SearchMenuButton">
+                <svg class="h-5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-width="2" viewBox="0 0 24 24">
+                    <rect height="14" rx="2" ry="2" width="20" x="2" y="7"></rect>
+                    <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path>
+                </svg>
+            </button>
+        </div>
+    </div>
+    <div class="flex-grow overflow-hidden h-full flex flex-col" id="MainMenu">
+        <div class="flex-grow flex overflow-x-hidden">
+            <div class="flex-grow bg-white dark:bg-gray-900 overflow-hidden">
+                <div class="sm:p-7 p-4">
+                    <div class="text-2xl font-bold mb-4">Statistics</div>
+                    <div class="flex" id="charts">
+                        <div style="width: 50%">
+                            <canvas id="server-type-chart"></canvas>
+                        </div>
+                        <div style="width: 50%">
+                            <div style="height: 50%">
+                                <canvas id="age-chart"></canvas>
+                            </div>
+                            <div style="height: 50%">
+                                <canvas id="cookie-chart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="hidden flex-grow overflow-hidden h-full flex flex-col" id="SearchMenu">
+        <div class="flex-grow flex overflow-x-hidden">
+            <div class="flex-grow bg-white dark:bg-gray-900 overflow-y-auto">
+                <div class="sm:p-7 p-4">
+                    <div class="text-2xl font-bold mb-4">
+                        Websites
+                    </div>
+                    <div class="flex w-full items-center mb-7">
+                        <div class="inline-flex mr-3 items-center h-8 pl-2.5 pr-2 rounded-md shadow text-gray-700 dark:text-gray-400 dark:border-gray-800 border border-gray-200 leading-none py-0 relative">
+                            <input class="pl-8 h-9 bg-transparent dark:border-gray-700 dark:text-white w-full rounded-md text-sm focus:outline-none"
+                                   id="SearchInput"
+                                   placeholder="Search"
+                                   type="text"/>
+                            <svg class="w-4 absolute text-gray-400 top-1/2 transform translate-x-0.5 -translate-y-1/2 left-2"
+                                 fill="none"
+                                 stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                 viewBox="0 0 24 24">
+                                <circle cx="11" cy="11" r="8"></circle>
+                                <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
+                            </svg>
+                        </div>
+                    </div>
+                    <table class="w-full text-left" id="searchTable">
+                        <thead>
+                        <tr class="text-gray-400">
+                            <th class="font-normal px-3 pt-0 pb-3 border-b border-gray-200 dark:border-gray-800">
+                                Website
+                            </th>
+                            <th class="font-normal px-3 pt-0 pb-3 border-b border-gray-200 dark:border-gray-800">
+                                Url
+                            </th>
+                            <th class="font-normal px-3 pt-0 pb-3 border-b border-gray-200 dark:border-gray-800">
+                                Server
+                            </th>
+                            <th class="font-normal px-3 pt-0 pb-3 border-b border-gray-200 dark:border-gray-800">
+                                Last Modified μ Age (Average in hours)
+                            </th>
+                            <th class="font-normal px-3 pt-0 pb-3 border-b border-gray-200 dark:border-gray-800">
+                                Last Modified σ Age (Deviation in hours)
+                            </th>
+                            <th class="font-normal px-3 pt-0 pb-3 border-b border-gray-200 dark:border-gray-800">
+                                μ Number of Cookies
+                            </th>
+                        </tr>
+                        </thead>
+                        <tbody class="text-gray-600 dark:text-gray-100">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

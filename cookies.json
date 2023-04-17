@@ -1,0 +1,266 @@
+[
+  {
+    "Url": "https://chat.openai.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Casino.fr",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Google.com",
+    "CountCookie": 5,
+    "AverageCookie": 1.2,
+    "DeviationCookie": 0.40000000000000008
+  },
+  {
+    "Url": "https://Youtube.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Facebook.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Baidu.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Wikipedia.org",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Tencent.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Amazon.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://QQ.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Taobao.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Tmall.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Twitter.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Instagram.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Sina.com.cn",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Sohu.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Reddit.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Netflix.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://JD.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Naver.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://VK.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Pornhub.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Live.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Zoom.us",
+    "CountCookie": 20,
+    "AverageCookie": 14.75,
+    "DeviationCookie": 1.4448183276799889
+  },
+  {
+    "Url": "https://Bing.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Office.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Aliexpress.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Apple.com",
+    "CountCookie": 100,
+    "AverageCookie": 1.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Yahoo.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Weibo.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Microsoft.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Blogspot.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Yandex.ru",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Stackoverflow.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Amazon.in",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Google.com.br",
+    "CountCookie": 5,
+    "AverageCookie": 1.2,
+    "DeviationCookie": 0.40000000000000008
+  },
+  {
+    "Url": "https://Github.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Adobe.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Myshopify.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Whatsapp.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Google.it",
+    "CountCookie": 5,
+    "AverageCookie": 1.2,
+    "DeviationCookie": 0.40000000000000008
+  },
+  {
+    "Url": "https://Okezone.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Ebay.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://Twitch.tv",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  }
+]

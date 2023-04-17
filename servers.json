@@ -1,0 +1,178 @@
+[
+  {
+    "Url": "https://chat.openai.com",
+    "Server": "cloudflare"
+  },
+  {
+    "Url": "https://Casino.fr",
+    "Server": "nginx/1.17.10"
+  },
+  {
+    "Url": "https://Google.com",
+    "Server": "gws"
+  },
+  {
+    "Url": "https://Youtube.com",
+    "Server": "ESF"
+  },
+  {
+    "Url": "https://Facebook.com",
+    "Server": "N/A"
+  },
+  {
+    "Url": "https://Baidu.com",
+    "Server": "N/A"
+  },
+  {
+    "Url": "https://Wikipedia.org",
+    "Server": "ATS/9.1.4"
+  },
+  {
+    "Url": "https://Tencent.com",
+    "Server": "N/A"
+  },
+  {
+    "Url": "https://Amazon.com",
+    "Server": "Server"
+  },
+  {
+    "Url": "https://QQ.com",
+    "Server": "squid/3.5.24"
+  },
+  {
+    "Url": "https://Taobao.com",
+    "Server": "N/A"
+  },
+  {
+    "Url": "https://Tmall.com",
+    "Server": "Tengine"
+  },
+  {
+    "Url": "https://Twitter.com",
+    "Server": "tsa_f"
+  },
+  {
+    "Url": "https://Instagram.com",
+    "Server": "N/A"
+  },
+  {
+    "Url": "https://Sina.com.cn",
+    "Server": "Tengine"
+  },
+  {
+    "Url": "https://Sohu.com",
+    "Server": "N/A"
+  },
+  {
+    "Url": "https://Reddit.com",
+    "Server": "N/A"
+  },
+  {
+    "Url": "https://Netflix.com",
+    "Server": "nq_website_nonmember-prod-release-1.31232.0-baseline"
+  },
+  {
+    "Url": "https://JD.com",
+    "Server": "N/A"
+  },
+  {
+    "Url": "https://Naver.com",
+    "Server": "N/A"
+  },
+  {
+    "Url": "https://VK.com",
+    "Server": "kittenx"
+  },
+  {
+    "Url": "https://Pornhub.com",
+    "Server": "N/A"
+  },
+  {
+    "Url": "https://Live.com",
+    "Server": "N/A"
+  },
+  {
+    "Url": "https://Zoom.us",
+    "Server": "cloudflare"
+  },
+  {
+    "Url": "https://Bing.com",
+    "Server": "N/A"
+  },
+  {
+    "Url": "https://Office.com",
+    "Server": "N/A"
+  },
+  {
+    "Url": "https://Aliexpress.com",
+    "Server": "N/A"
+  },
+  {
+    "Url": "https://Apple.com",
+    "Server": "Apple"
+  },
+  {
+    "Url": "https://Yahoo.com",
+    "Server": "ATS"
+  },
+  {
+    "Url": "https://Weibo.com",
+    "Server": "N/A"
+  },
+  {
+    "Url": "https://Microsoft.com",
+    "Server": "N/A"
+  },
+  {
+    "Url": "https://Blogspot.com",
+    "Server": "sffe"
+  },
+  {
+    "Url": "https://Yandex.ru",
+    "Server": "N/A"
+  },
+  {
+    "Url": "https://Stackoverflow.com",
+    "Server": "Varnish"
+  },
+  {
+    "Url": "https://Amazon.in",
+    "Server": "Server"
+  },
+  {
+    "Url": "https://Google.com.br",
+    "Server": "gws"
+  },
+  {
+    "Url": "https://Github.com",
+    "Server": "GitHub.com"
+  },
+  {
+    "Url": "https://Adobe.com",
+    "Server": "N/A"
+  },
+  {
+    "Url": "https://Myshopify.com",
+    "Server": "cloudflare"
+  },
+  {
+    "Url": "https://Whatsapp.com",
+    "Server": "N/A"
+  },
+  {
+    "Url": "https://Google.it",
+    "Server": "gws"
+  },
+  {
+    "Url": "https://Okezone.com",
+    "Server": "CloudFront"
+  },
+  {
+    "Url": "https://Ebay.com",
+    "Server": "N/A"
+  },
+  {
+    "Url": "https://Twitch.tv",
+    "Server": "N/A"
+  }
+]
