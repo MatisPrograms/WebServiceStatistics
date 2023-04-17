@@ -1,0 +1,16 @@
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\bin\Release\ServerStats.exe.config
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\bin\Release\ServerStats.exe
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\bin\Release\ServerStats.pdb
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\bin\Release\MoreLinq.dll
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\bin\Release\Newtonsoft.Json.dll
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\bin\Release\System.ValueTuple.dll
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\bin\Release\MoreLinq.pdb
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\bin\Release\MoreLinq.xml
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\bin\Release\Newtonsoft.Json.xml
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\bin\Release\System.ValueTuple.xml
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\obj\Release\ServerStats.csproj.AssemblyReference.cache
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\obj\Release\ServerStats.csproj.SuggestedBindingRedirects.cache
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\obj\Release\ServerStats.csproj.CoreCompileInputs.cache
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\obj\Release\ServerStats.csproj.CopyComplete
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\obj\Release\ServerStats.exe
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\ServerStats\obj\Release\ServerStats.pdb

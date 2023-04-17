@@ -1,0 +1,16 @@
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\AgeStats\bin\Release\AgeStats.exe.config
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\AgeStats\bin\Release\AgeStats.exe
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\AgeStats\bin\Release\AgeStats.pdb
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\AgeStats\bin\Release\MoreLinq.dll
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\AgeStats\bin\Release\Newtonsoft.Json.dll
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\AgeStats\bin\Release\System.ValueTuple.dll
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\AgeStats\bin\Release\MoreLinq.pdb
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\AgeStats\bin\Release\MoreLinq.xml
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\AgeStats\bin\Release\Newtonsoft.Json.xml
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\AgeStats\bin\Release\System.ValueTuple.xml
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\AgeStats\obj\Release\AgeStats.csproj.AssemblyReference.cache
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\AgeStats\obj\Release\AgeStats.csproj.SuggestedBindingRedirects.cache
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\AgeStats\obj\Release\AgeStats.csproj.CoreCompileInputs.cache
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\AgeStats\obj\Release\AgeStats.csproj.CopyComplete
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\AgeStats\obj\Release\AgeStats.exe
+C:\Users\matis\OneDrive - Université Nice Sophia Antipolis\Cours\S8\Des Réseaux Couches Basses aux Protocoles d'Internet\Protocoles\HeaderStats\AgeStats\obj\Release\AgeStats.pdb
