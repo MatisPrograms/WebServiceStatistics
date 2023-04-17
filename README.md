@@ -127,20 +127,20 @@ Il y a trois métriques qui sont calculées :
 - L'écart type du nombre de cookies
 - Le nombre de pages testé
 
-Grâce à ces métriques, on peut voir si un site utilise beaucoup de cookies ou pas. Et aussi si le nombre de cookies est
-stable ou non. Si le nombre de cookies est élevé et stable, cela peut être un problème de confidentialité. Et on peut
-comparer entre les différents sites pour voir si certains utilisent beaucoup plus de cookies que d'autres et donc voir
-qui utilise plus de données personnelles.
+Les métriques permettent d'évaluer l'utilisation de cookies sur un site web, ainsi que la stabilité de leur nombre au
+fil du temps. Une quantité élevée et stable de cookies peut constituer un problème de confidentialité. La comparaison
+des données entre différents sites web peut également révéler des variations significatives dans l'utilisation de
+cookies, ce qui peut indiquer une collecte disproportionnée de données personnelles.
 
 ## Problèmes rencontrés
 
 ![Website List N/A](./Images/Screenshot%20List%20Unknown.png)
 
-Comme visible sur l'image ci-dessus, il y a des sites qui ne fonctionnent pas. Cela est dû au fait que la plupart des
-sites ne proposent pas les informations demandées dans les Headers HTTP *(Server et Last-Modified)*. Et aussi la
-majorité des sites ne proposent pas de lien vers un fichier `sitemap.xml` qui permet de récupérer les liens des
-sous-pages du site. Dans ce cas, il faudrait utiliser un web crawler pour récupérer les liens des sous-pages du site,
-mais ceci est illégal et donc pas recommandé.
+Comme le montre l'image ci-dessus, certains sites ne sont pas accessibles. Ce problème résulte du fait que la plupart
+des sites ne fournissent pas les informations requises dans les en-têtes HTTP (tels que les champs **Server** et
+Last-Modified**). En outre, la majorité des sites ne proposent pas de lien vers un fichier `sitemap.xml` qui permet de
+récupérer les liens des sous-pages du site. Dans de tels cas, il est possible de recourir à un robot d'exploration web
+pour extraire ces liens. Toutefois, cette pratique est illégale et ne saurait être recommandée.
 
 ## Auteur
 
