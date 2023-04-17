@@ -50,15 +50,20 @@ Il y a une liste des sites testés avec les informations suivantes :
 - L'écart type de l'âge du site *(en heure)*
 - Le nombre de cookies moyen
 
+### Filtrer les sites
+
 On peut aussi filtrer les sites par nom ou par serveur en utilisant la barre de recherche. *(en haut à gauche)*
 
 ![Website List Filtered](./Images/Screenshot%20List%20Filtered.png)
-![Website List Filtered](./Images/Screenshot%20List%20Filtered%20Server.png)
+![Website List Filtered Server](./Images/Screenshot%20List%20Filtered%20Server.png)
+
+### Ajouter des sites
 
 On peut rajouter des sites supplémentaires à la liste pour le tester en mettant l'URL du site dans la barre de recherche
+puis en appuyant sur la touche `Enter` ou `Entrée`.
 
-![Website List Filtered](./Images/Screenshot%20List%20New%20Website.png)
-![Website List Filtered](./Images/Screenshot%20List%20Added%20Website.png)
+![Website List New Website](./Images/Screenshot%20List%20New%20Website.png)
+![Website List Added Website](./Images/Screenshot%20List%20Added%20Website.png)
 
 Les sites rajoutés sont aussitôt testé et les statistiques et graphes sont mises à jour.
 Les sites sont sauvegardés dans des fichiers JSON qui seront aussi chargés pour les prochaines fois.
@@ -72,7 +77,7 @@ La liste des sites, les statistiques et les informations des sites sont sauvegar
 * [Age des Sites JSON](./ages.json)
 * [Nombre de Cookies JSON](./cookies.json)
 
-Les sites par défaut sont utilisés comme base pour les statistiques et les informations des sites. Ils ont étaient
+Les sites par défaut sont utilisés comme base pour les statistiques et les informations des sites. Ils ont été
 choisis comme étant les 50 sites les plus visités au monde.
 
 ## Fonctionnement
@@ -84,8 +89,7 @@ de serveur web pour afficher les pages web. Tous les programmes sont écrits en 
 
 Ce programme permet d'écouter les requêtes HTTP et de renvoyer les pages web associées. Mais il sert aussi de server
 api REST, car grâce à une class [Router](./HttpServer/Router.cs), on peut associer une fonction à une route. Dans ce
-cas, il y a
-trois routes, une par type de statistique. Ces routes sont :
+cas, il y a trois routes, une par type de statistique. Ces routes sont :
 
 - /api/server
 - /api/age
@@ -104,10 +108,21 @@ fois précédente pour plus de rapidité.
 - [AgeStats](./AgeStats/PageAge.cs)
 - [CookieStats](./CookieStats/CookieCounter.cs)
 
-Le fonctionnement de ces programmes est très similaire. Ils utilisent tous les mêmes url initiale pour faire les
+Le fonctionnement de ces programmes sont très similaire. Ils utilisent tous les mêmes url initiale pour faire les
 requêtes et récupérer les données. Ils peuvent tous être lancés depuis le HttpServer en utilisant la route ou en
 l'exécutant directement. De la même manière, ils peuvent tous être lancés avec des paramètres ou non pour calculer les
-statistiques pour un ou plusieurs sites.
+statistiques pour un ou plusieurs sites. Deux d'entre eux utilisent un lien `/sitemap.xml` pour récupérer les liens des
+sous-pages du site afin de faire des tests sur le nombre de cookies et l'âge des pages.
+
+## Problèmes rencontrés
+
+![Website List N/A](./Images/Screenshot%20List%20Unknown.png)
+
+Comme visible sur l'image ci-dessus, il y a des sites qui ne fonctionnent pas. Cela est dû au fait que la plupart des
+sites ne proposent pas les informations demandées dans les Headers HTTP *(Server et Last-Modified)*. Et aussi la
+majorité des sites ne proposent pas de lien vers un fichier `sitemap.xml` qui permet de récupérer les liens des
+sous-pages du site. Dans ce cas, il faudrait utiliser un web crawler pour récupérer les liens des sous-pages du site,
+mais ceci est illégal et donc pas recommandé.
 
 ## Auteur
 
