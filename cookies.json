@@ -1,5 +1,23 @@
 [
   {
+    "Url": "https://edt.polytech.unice.fr",
+    "CountCookie": -1,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://polytech.unice.fr",
+    "CountCookie": -1,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://unice.fr",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
     "Url": "https://slack.com",
     "CountCookie": 0,
     "AverageCookie": 0.0,

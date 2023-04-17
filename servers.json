@@ -1,5 +1,17 @@
 [
   {
+    "Url": "https://edt.polytech.unice.fr",
+    "Server": "N/A"
+  },
+  {
+    "Url": "https://polytech.unice.fr",
+    "Server": "N/A"
+  },
+  {
+    "Url": "https://unice.fr",
+    "Server": "N/A"
+  },
+  {
     "Url": "https://slack.com",
     "Server": "Apache"
   },
