@@ -136,9 +136,9 @@ cookies, ce qui peut indiquer une collecte disproportionnée de données personn
 
 ![Website List N/A](./Images/Screenshot%20List%20Unknown.png)
 
-Comme le montre l'image ci-dessus, certains sites ne sont pas accessibles. Ce problème résulte du fait que la plupart
+Comme le montre l'image ci-dessus, certaines informations des sites ne sont pas accessibles. Ce problème résulte du fait que la plupart
 des sites ne fournissent pas les informations requises dans les en-têtes HTTP (tels que les champs **Server** et
-Last-Modified**). En outre, la majorité des sites ne proposent pas de lien vers un fichier `sitemap.xml` qui permet de
+**Last-Modified**). En outre, la majorité des sites ne proposent pas de lien vers un fichier `sitemap.xml` qui permet de
 récupérer les liens des sous-pages du site. Dans de tels cas, il est possible de recourir à un robot d'exploration web
 pour extraire ces liens. Toutefois, cette pratique est illégale et ne saurait être recommandée.
 
