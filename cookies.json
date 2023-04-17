@@ -1,5 +1,23 @@
 [
   {
+    "Url": "https://slack.com",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://lms.univ-cotedazur.fr",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
+    "Url": "https://univ-cotedazur.fr",
+    "CountCookie": 0,
+    "AverageCookie": 0.0,
+    "DeviationCookie": 0.0
+  },
+  {
     "Url": "https://chat.openai.com",
     "CountCookie": 0,
     "AverageCookie": 0.0,

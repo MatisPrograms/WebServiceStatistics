@@ -1,5 +1,23 @@
 [
   {
+    "Url": "https://slack.com",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://lms.univ-cotedazur.fr",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
+    "Url": "https://univ-cotedazur.fr",
+    "CountAge": 0,
+    "AverageAge": 0.0,
+    "DeviationAge": 0.0
+  },
+  {
     "Url": "https://chat.openai.com",
     "CountAge": 0,
     "AverageAge": 0.0,

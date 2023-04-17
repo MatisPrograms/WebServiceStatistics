@@ -1,5 +1,17 @@
 [
   {
+    "Url": "https://slack.com",
+    "Server": "Apache"
+  },
+  {
+    "Url": "https://lms.univ-cotedazur.fr",
+    "Server": "Apache/2.4.41"
+  },
+  {
+    "Url": "https://univ-cotedazur.fr",
+    "Server": "N/A"
+  },
+  {
     "Url": "https://chat.openai.com",
     "Server": "cloudflare"
   },

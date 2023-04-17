@@ -37,6 +37,11 @@ namespace CookieStats
                 websites = JsonConvert.DeserializeObject<List<Website>>(File.ReadAllText(dataPath + (File.Exists(dataPath + statFile) ? statFile : dataFile)));
 
                 websites.ForEach(website => website.Url = website.Url.Contains("https://") || website.Url.Contains("http://") ? website.Url : "https://" + website.Url);
+
+                if (!File.Exists(dataPath + statFile))
+                {
+                    websites.ForEach(website => website.CountCookie = -1);
+                }
             }
             else
             {
@@ -44,6 +49,7 @@ namespace CookieStats
                 {
                     Website website = new Website();
                     website.Url = url.Contains("https://") || url.Contains("http://") ? url : "https://" + url;
+                    website.CountCookie = -1;
                     websites.Add(website);
                 }
             }
